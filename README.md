@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman Eissa 👋
 
-<!--
-**Abdelrahman-Eissa1/Abdelrahman-Eissa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Bachelor Student | Machine Learning Enthusiast
+I am a dedicated Artificial Intelligence student focused on building robust machine learning models and understanding the deep mathematical foundations of AI. I am currently seeking **AI / Machine Learning Internships** where I can apply my skills in algorithm implementation and data analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+*   **Languages:** Python (Advanced), SQL, C++
+*   **Machine Learning:** Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn
+*   **Core Competencies:** Algorithm implementation from scratch, Gradient Descent Optimization, Statistical Modeling, Ensemble Methods (Random Forest, AdaBoost), and Support Vector Machines (SVM).
+
+---
+
+## 📂 Featured Project: Supervised Learning Library
+My primary portfolio project is a comprehensive library of **Supervised Machine Learning Implementations**. It demonstrates my ability to transition from theoretical math to production-ready Python code.
+
+### [🚀 View Master Repository: Supervised Machine Learning Methodologies](https://github.com/Abdelrahman-Eissa1/Machine-Learning-Supervised-Techniques)
+
+**Key Modules Included:**
+*   **Scratch Implementations:** Logistic Regression with custom Gradient Descent and Binary Cross-Entropy loss.
+*   **Probabilistic Models:** Quadratic Discriminant Analysis (GDA) using MLE.
+*   **Optimization:** Support Vector Machines (SVM) using RBF and Polynomial kernels with KKT condition analysis.
+*   **Interpretability:** Random Forest feature importance mapping using the Fashion MNIST dataset.
+*   **Model Selection:** Hyperparameter tuning via Randomized Search and 10-Fold Cross-Validation.
+
+---
+
+## 📈 Stats & Progress
+*   🎓 Currently pursuing a Bachelor’s Degree in Artificial Intelligence.
+*   🔭 Completed a deep-dive into Supervised Learning algorithms and statistical foundations.
+*   📫 How to reach me: [www.linkedin.com/in/abdelrahmaneissa]
+
+---
+
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahmaneissa)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanabdelazeem.e@gmail.com)
