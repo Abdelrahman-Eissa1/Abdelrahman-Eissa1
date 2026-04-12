@@ -12,10 +12,10 @@ I am a dedicated Artificial Intelligence student focused on building robust mach
 
 ---
 
-## 📂 Featured Project: Supervised Learning Library
-My primary portfolio project is a comprehensive library of **Supervised Machine Learning Implementations**. It demonstrates my ability to transition from theoretical math to production-ready Python code.
+## 📂 Featured Project: Machine Learning Supervised Techniques
+My primary portfolio project is a comprehensive library of **Machine Learning Supervised Techniques**. It demonstrates my ability to transition from theoretical math to production-ready Python code.
 
-### [🚀 View Master Repository: Supervised Machine Learning Methodologies](https://github.com/Abdelrahman-Eissa1/Machine-Learning-Supervised-Techniques)
+### [🚀 View Master Repository: Machine-Learning-Supervised-Techniques](https://github.com/Abdelrahman-Eissa1/Machine-Learning-Supervised-Techniques)
 
 **Key Modules Included:**
 *   **Scratch Implementations:** Logistic Regression with custom Gradient Descent and Binary Cross-Entropy loss.
