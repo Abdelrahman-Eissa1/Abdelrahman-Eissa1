@@ -5,10 +5,16 @@ I am a dedicated Artificial Intelligence student focused on building robust mach
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Skills & Tools
+
 *   **Languages:** Python (Advanced), SQL, C++
-*   **Machine Learning:** Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn
-*   **Core Competencies:** Algorithm implementation from scratch, Gradient Descent Optimization, Statistical Modeling, Ensemble Methods (Random Forest, AdaBoost), and Support Vector Machines (SVM).
+*   **Machine Learning & Data Science:** Scikit-Learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn, Librosa (Audio Processing)
+*   **Core Competencies:** 
+    *   **ML Internals:** Algorithm implementation from scratch, Gradient Descent Optimization, Statistical Modeling.
+    *   **Supervised Learning:** SVM (KKT Analysis), Ensemble Methods (Random Forest, AdaBoost), Linear/Logistic Regression.
+    *   **Unsupervised Learning:** Clustering (K-Means/Hierarchical), Dimensionality Reduction (PCA), Pattern Discovery.
+    *   **Applied AI:** Sound Event Detection (SED), Signal Processing, Feature Engineering.
+*   **Tools & Version Control:** Git, GitHub, Jupyter Notebooks, VS Code
 
 ---
 
