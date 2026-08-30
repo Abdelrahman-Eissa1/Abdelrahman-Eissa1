@@ -12,17 +12,27 @@ I am a dedicated Artificial Intelligence student focused on building robust mach
 
 ---
 
-## 📂 Featured Project: Machine Learning Supervised Techniques
-My primary portfolio project is a comprehensive library of **Machine Learning Supervised Techniques**. It demonstrates my ability to transition from theoretical math to production-ready Python code.
+## 📁 Featured Projects
 
-### [🚀 View Master Repository: Machine-Learning-Supervised-Techniques](https://github.com/Abdelrahman-Eissa1/Machine-Learning-Supervised-Techniques)
+### 🧠 [Machine Learning Foundations (Supervised & Unsupervised)](https://github.com/Abdelrahman-Eissa1?tab=repositories)
+Modular libraries built from scratch using **NumPy** and **SciPy** to demonstrate a deep mathematical understanding of ML internals.
 
-**Key Modules Included:**
-*   **Scratch Implementations:** Logistic Regression with custom Gradient Descent and Binary Cross-Entropy loss.
-*   **Probabilistic Models:** Quadratic Discriminant Analysis (GDA) using MLE.
-*   **Optimization:** Support Vector Machines (SVM) using RBF and Polynomial kernels with KKT condition analysis.
-*   **Interpretability:** Random Forest feature importance mapping using the Fashion MNIST dataset.
-*   **Model Selection:** Hyperparameter tuning via Randomized Search and 10-Fold Cross-Validation.
+*   **Supervised Learning:** 
+    *   **Scratch Implementations:** Logistic Regression with custom Gradient Descent and Binary Cross-Entropy loss.
+    *   **Optimization & Probabilistic Models:** SVMs using RBF/Polynomial kernels with KKT condition analysis; GDA using MLE.
+    *   **Model Selection:** Robust hyperparameter tuning via 10-Fold Cross-Validation and Randomized Search.
+*   **Unsupervised Learning:** 
+    *   **Clustering & Pattern Discovery:** Implementation of core clustering algorithms and dimensionality reduction techniques (PCA).
+    *   **Feature Engineering:** Integrated modular pipelines for data scaling and preprocessing.
+
+---
+
+### 🎙️ [Domestic-SED-Pipeline](https://github.com/Abdelrahman-Eissa1/Domestic-SED-Pipeline)
+An applied **Sound Event Detection** pipeline designed for Smart Home Environments.
+
+*   **Objective:** End-to-end processing and classification of domestic audio signals.
+*   **Technical Stack:** Python, Librosa/Signal Processing, and Scikit-Learn.
+*   **Key Achievement:** Bridged the gap between raw unstructured audio data and actionable classification models for IoT/Smart Home contexts.
 
 ---
 
