@@ -1,7 +1,8 @@
 # Hi, I'm Abdelrahman Eissa 👋
 
-### 🤖 AI Bachelor Student | Machine Learning Enthusiast
-I am a dedicated Artificial Intelligence student focused on building robust machine learning models and understanding the deep mathematical foundations of AI. I am currently seeking **AI / Machine Learning Internships** where I can apply my skills in algorithm implementation and data analysis.
+### 🤖 AI Student | Aspiring Software Engineer | Problem Solver
+
+I am an Artificial Intelligence student dedicated to building robust, scalable solutions and understanding the deep mathematical foundations of modern technology. Beyond my focus on AI, I enjoy architecting clean code and solving complex technical challenges. I am currently seeking **Internship opportunities** where I can apply my analytical mindset and technical skills to contribute to innovative projects and grow within a professional team.
 
 ---
 
